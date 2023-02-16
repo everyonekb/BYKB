@@ -12,4 +12,5 @@
 * [Dokuwiki](Dokuwiki/README.md)
 * [MkDocs](MkDocs/README.md)
 * [WordPress](WordPress/README.md)
+* [Wiki.js](Wiki.js/README.md)
 
