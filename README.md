@@ -24,4 +24,5 @@
 
 - Wiki.js
 - Sanity CMS
+- Astro：一款现代化的轻量级静态站点生成器
 
